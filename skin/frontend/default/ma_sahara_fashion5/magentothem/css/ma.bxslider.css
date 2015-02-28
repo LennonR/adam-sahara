@@ -1,0 +1,42 @@
+.ma-featuredproductslider-container .bx-viewport {
+    min-height: 400px;
+    z-index: 9;
+    padding:5px;
+    margin: 30px 0 0;
+}
+.ma-featuredproductslider-container { margin: 54px 0 0; min-height: 200px; display: inline-block; width: 100%;}
+.ma-featuredproductslider-container .ma-featured-sldier-title {
+    background: url("../images/bg-title.png") repeat-x scroll center bottom;
+    display: inline-block;
+    float: none;
+    margin-bottom: 20px;
+    padding: 0 0 25px;
+    width: 100%;
+}
+.ma-featured-sldier-title h2 {
+    color: #333333;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 18px;
+    margin: 0;
+    font-family: 'century';
+}
+
+.ma-featuredproductslider-container .bx-wrapper { position: relative; max-width: 100% !important;}
+.ma-featuredproductslider-container .bx-wrapper .bx-controls a { margin-top: -96px;}
+.ma-featuredproductslider-container .price-box { margin: 0;}
+.featuredproductslider-item { float: left; text-align: center;}
+.featuredproductslider-item .item-inner img { max-width: 100%; height: auto;}
+
+.featuredproductslider-item  a.product-image {
+    display: block;
+    padding-bottom: 5px;
+    margin-bottom: 0;
+    border-bottom:0;
+}
+.featuredproductslider-item .add-to-links { padding: 0;}
+.featuredproductslider-item .add-to-links li a:hover { color: #1e7ec8;}
+
+@media (max-width: 1200px) {
+    
+}

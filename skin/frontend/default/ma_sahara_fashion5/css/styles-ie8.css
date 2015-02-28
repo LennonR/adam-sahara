@@ -1,0 +1,10 @@
+.pt_custommenu div.pt_menu .parentMenu a span, .pt_custommenu div.pt_menu .parentMenu span.block-title {font-size: 13px !important;}
+.header-block .h-box h2 { font-size: 15px !important;}
+.header-block .h-box h3 { font-size: 13px !important;}
+.footer-static-center .products-grid .product-image { width: 75px !important; height: 110px !important;}
+.footer-static-center .products-grid .product-image img { height: 110px !important;}
+.footer-static-center-one .f-one { margin: 0 5px 0 0 !important;}
+.footer-static-center-one .f-one.pinterest { margin: 0  !important;}
+.block-subscribe input.input-text  { width: 210px !important;}
+.products-grid .product-image,.ma-upsellslider-item a.product-image { width: 195px !important; height: 286px !important;}
+.product-view .link-wishlist,.product-view .link-compare,.product-view .email-friend a { font-size: 11px !important;}

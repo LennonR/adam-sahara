@@ -1,0 +1,65 @@
+.ma-upsellslider-container { margin:40px 0 0; float: left; width: 100%;}
+.upsellslider-title-box {
+    background: url("../images/bg-title.png") repeat-x scroll center center;
+    display: inline-block;
+    float: none;
+    padding: 0;
+    margin: 0 0 20px 0;
+    text-align: center;
+    width: 100%;
+}
+.ma-upsellslider-container .ma-upsellslider-title {
+    background:#FFFFFF;
+    display: inline-block;
+    float: none;
+    margin: 0;
+    min-width: 150px;
+    padding: 0;
+}
+.ma-upsellslider-title h2 {
+    border: 1px solid #ddd;
+    color: #666;
+    display: inline-block;
+    float: none;
+    font-family: 'helveticaneuemcs';
+    font-size: 15px;
+    line-height: 22px;
+    margin:0;
+    padding: 6px 8px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.ma-upsellslider-item .product-name a { text-transform: capitalize;}
+.ma-upsellslider-item .regular-price .price { color: #666;}
+.ma-upsellslider-container:hover .bx-wrapper .bx-controls a { opacity: 1;}
+.ma-upsellslider-container .bx-wrapper .bx-controls a {
+	width: 40px;
+	height: 40px;
+	top: 160px;
+        position: absolute;
+        opacity: 0;
+	text-indent: -9999px;
+}
+.ma-upsellslider-container .bx-wrapper .bx-controls .bx-prev {
+	left: -10px;
+	background: url("../images/btn-slider.png") no-repeat 0 0 #cccccc;
+}
+.ma-upsellslider-container .bx-wrapper .bx-controls .bx-next {
+	right: -10px;
+	background: url("../images/btn-slider.png") no-repeat 100% 0 #cccccc;
+}
+.ma-upsellslider-container .bx-wrapper .bx-controls .bx-prev:hover{
+        background: url("../images/btn-slider.png") no-repeat 0 100% #333;
+}
+.ma-upsellslider-container .bx-wrapper .bx-controls .bx-next:hover {
+    background: url("../images/btn-slider.png") no-repeat 100% 100% #333;
+}
+.product-view .ma-upsellslider-container .old-price { display: block; margin: 0;}
+.ma-upsellslider-container .item-inner .box-item { padding: 0;}
+.ma-upsellslider-container .bx-wrapper { position: relative; max-width: 100% !important; }
+.ma-upsellslider-container .bx-wrapper .bx-controls a { margin-top: -65px;}
+.ma-upsellslider-container .ratings .rating-box { display: inline-block;}
+.product-view .ma-upsellslider-item .ratings { margin: 15px 0 0; width: auto; float: none; display: inline-block; width: 100%; text-align: center;}
+.ma-upsellslider-item { float: left; text-align: left;}
+
+.ma-upsellslider-item a.product-image { display: block; padding-bottom:5px;}

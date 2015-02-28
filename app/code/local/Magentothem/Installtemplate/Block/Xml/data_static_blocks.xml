@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<ma_sahara_fashion5>
+    <blocks>
+
+        <block>
+            <title>Banner Static</title>
+            <identifier>home_banner_static</identifier>
+            <content>
+                    <![CDATA[
+			<div class="banner-static-contain">
+			<div class="banner-box banner-box1 "><a href="{{store direct_url="samsung.html"}}"><img src="{{media url="wysiwyg/block1.jpg"}}" alt="" /></a>
+			<div class="banner-images"><a href="{{store direct_url="women.html"}}"><img src="{{media url="wysiwyg/bg-images.png"}}" alt="" /></a></div>
+			<div class="banner-text">
+			<h2>MEN&rsquo;S</h2>
+			<p>SUMMER 2014</p>
+			<div class="banner-link"><a href="#">SHOP NOW</a></div>
+			</div>
+			</div>
+			</div>
+		    ]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+
+
+        <block>
+            <title>Footer Static</title>
+            <identifier>footer_static</identifier>
+            <content>
+                <![CDATA[
+		<div class="f-col col-sm-6 col-md-3 col-sms-6 col-smb-12">
+		<div class="footer-logo"><a href="#"><img src="{{media url="wysiwyg/logo.png"}}" alt="" /></a></div>
+		<div class="footer-static-content">
+		<div class="box box-footer">
+		<div class="box-footer-title">
+		<h3>WAREHOUSE &amp; OFFICES</h3>
+		</div>
+		<h2 class="address">8901 Marmora Road, Glasgow, D04 89GR</h2>
+		<h2 class="telephone">Telephone: (801) 2345 - 6789</h2>
+		</div>
+		<div class="box1 box-footer">
+		<div class="box-footer-title">
+		<h3>WAREHOUSE &amp; OFFICES</h3>
+		</div>
+		<h2 class="address">8901 Marmora Road, Glasgow, D04 89GR</h2>
+		<h2 class="telephone">Telephone: (801) 2345 - 6789</h2>
+		</div>
+		</div>
+		</div>
+		<div class="f-col f-col2 col-sm-6 col-md-2 col-sms-6 col-smb-12">
+		<div class="footer-static-title">
+		<h3>MY ACCOUNT</h3>
+		</div>
+		<div class="footer-static-content row-fluid">
+		<ul>
+		<li class="first"><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Sitemap</a></li>
+		<li><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+		<li><a href="{{store direct_url="customer/account/index"}}">Your Account</a></li>
+		<li><a href="{{store direct_url="catalogsearch/advanced"}}">Advanced Search</a></li>
+		<li class="last"><a href="{{store direct_url="contacts"}}">Contact Us</a></li>
+		</ul>
+		</div>
+		</div>
+		<div class="f-col f-col3 col-sm-6 col-md-2 col-sms-6 col-smb-12">
+		<div class="footer-static-title">
+		<h3>INFORMATION</h3>
+		</div>
+		<div class="footer-static-content">
+		<ul>
+		<li class="first"><a href="{{store direct_url="customer/account/index"}}">My Account</a></li>
+		<li><a href="{{store direct_url="sales/order/history/"}}">Order History</a></li>
+		<li><a href="#">Returns</a></li>
+		<li><a href="#">Mobiles</a></li>
+		<li class="last"><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Site Map</a></li>
+		</ul>
+		</div>
+		</div>
+		<div class="f-col f-col4 col-sm-6 col-md-2 col-sms-6 col-smb-12">
+		<div class="footer-static-title">
+		<h3>WHY CHOOSE US</h3>
+		</div>
+		<div class="footer-static-content">
+		<ul>
+		<li class="first"><a href="{{store direct_url="customer/account/index"}}">My Account</a></li>
+		<li><a href="#">Specials</a></li>
+		<li><a href="{{store direct_url="sales/order/history/"}}">Order History</a></li>
+		<li><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Site Map</a></li>
+		<li class="last"><a href="#">Specials</a></li>
+		</ul>
+		</div>
+		</div>
+		<div class="f-col f-col5 col-sm-12 col-md-3">
+		<div class="footer-static-title">
+		<h3>OPENING TIME</h3>
+		</div>
+		<div class="footer-static-content">
+		<div class="footer-day">
+		<div class="day-arrow">
+		<div class="name-day">
+		<p>Monday - Friday</p>
+		</div>
+		<div class="time">
+		<p>8.00 - 18.00</p>
+		</div>
+		</div>
+		</div>
+		<div class="footer-day">
+		<div class="day-arrow">
+		<div class="name-day">
+		<p>Saturday</p>
+		</div>
+		<div class="time">
+		<p>9.00 - 21.00</p>
+		</div>
+		</div>
+		</div>
+		<div class="footer-day">
+		<div class="day-arrow">
+		<div class="name-day">
+		<p>Sunday</p>
+		</div>
+		<div class="time">
+		<p>10.00 - 21.00</p>
+		</div>
+		</div>
+		</div>
+		<div class="payment"><img src="{{media url="wysiwyg/payment.png"}}" alt="" /></div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Banner Left</title>
+            <identifier>banner_left</identifier>
+            <content>
+                <![CDATA[
+		<div class="banner-left"><a href="{{store direct_url="women.html"}}"><img src="{{media url="wysiwyg/banner-left.png"}}" alt="" /></a>
+		<div class="banner-left-text">
+		<h2>SNEAKERS COLLECTION</h2>
+		<div class="link-banner-left"><a href="{{store direct_url="women.html"}}">FIND OUT MORE</a></div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Custom Banner</title>
+            <identifier>custom_banner</identifier>
+            <content>
+                <![CDATA[
+		<div class="box-padding">
+		<div class="custom_banner">
+		<div class="custom-banner-content">
+		<div class="row">
+		<div class="col-md-6 col-sm-6 col-sms-12">
+		<div class="banner-col col"><a href="{{store direct_url="women.html"}}"><img src="{{media url="wysiwyg/custom-banner.jpg"}}" alt="" /></a></div>
+		</div>
+		<div class="col-md-6 col-sm-6 col-sms-12">
+		<div class="banner-col col1"><a href="{{store direct_url="men.html"}}"><img src="{{media url="wysiwyg/custom-banner1.jpg"}}" alt="" /></a></div>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Footer Static Center</title>
+            <identifier>footer_static_center</identifier>
+            <content>
+                <![CDATA[
+		<div class="footer-static-center">
+		<div class="box-padding">
+		<div class="row">
+		<div class="col-md-3 col-sm-6 col-sms-12">{{block type="newproduct/newproduct" name="newproduct" template="magentothem/newproduct/newproduct.phtml"}}</div>
+		<div class="col-md-3 col-sm-6 col-sms-12">{{block type="onsaleproduct/onsaleproduct" name="onsaleproduct" template="magentothem/onsaleproduct/onsaleproduct.phtml"}}</div>
+		<div class="col-md-3 col-sm-6 col-sms-12">{{block type="featuredproduct/featuredproduct" name="featuredproduct" template="magentothem/featuredproduct/featuredproduct.phtml"}}</div>
+		<div class="col-md-3 col-sm-6 col-sms-12">{{block type="mostviewedproduct/mostviewedproduct" name="mostviewedproduct" template="magentothem/mostviewedproduct/mostviewedproduct.phtml"}}</div>
+		</div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Footer Static Center One</title>
+            <identifier>footer_static_center_one</identifier>
+            <content>
+                <![CDATA[
+		<div class="box-padding">
+		<div class="footer-static-center-one">
+		<div class="center-one-bottom">
+		<div class="row">
+		<div class="col-md-4 col-sm-4 col-sms-12">
+		<div class="center-one-title">
+		<h2>ABOUT US</h2>
+		</div>
+		<div class="center-one-content">
+		<p>This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendu auctor, nisi elit consequat ipsum auctor.</p>
+		</div>
+		</div>
+		<div class="col-md-4 col-sm-4 col-sms-12">
+		<div class="center-one-title">
+		<h2>FOLLOW US ON SOCIAL</h2>
+		</div>
+		<div class="center-one-content">
+		<div class="f-one flow"><a href="#">flow</a></div>
+		<div class="f-one twitter"><a href="#">twitter</a></div>
+		<div class="f-one tumblr"><a href="#">tumblr</a></div>
+		<div class="f-one sky"><a href="#">sky</a></div>
+		<div class="f-one facebook"><a href="#">facebook</a></div>
+		<div class="f-one google"><a href="#">google</a></div>
+		<div class="f-one pinterest"><a href="#">pinterest</a></div>
+		</div>
+		</div>
+		<div class="col-md-4 col-sm-4 col-sms-12">
+		<div class="center-one-title">
+		<h2>SIGN UP FOR NEWSLETTERS</h2>
+		</div>
+		<div class="center-one-content">{{block type="newsletter/subscribe" name="left.newsletter" template="newsletter/subscribe.phtml"}}</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Header Call</title>
+            <identifier>header_call</identifier>
+            <content>
+                <![CDATA[
+		<div class="header-call">
+		<h2>SUPPORT + 0123 456 789</h2>
+		<p>Monday to Friday: 10.00 AM - 05.00 PM</p>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Header Block</title>
+            <identifier>header_block</identifier>
+            <content>
+                <![CDATA[
+		<div class="header-block">
+		<div class="header-padding">
+		<div class="row">
+		<div class="col-md-8 col-sm-8 col-sms-12">
+		<div class="h-box col">
+		<h2>SUMMER SALE!</h2>
+		<h3>1000+ NEW EXCLUSIVE MARKDOWNS PRODUCTS</h3>
+		<div class="h-link"><a href="{{store direct_url="men.html"}}">SHOP NOW</a></div>
+		</div>
+		</div>
+		<div class="col-md-4 col-sm-4 col-sms-12">
+		<div class="h-box col1">
+		<h2>FREE WORLDWIDE SHIPPING</h2>
+		<p>ON ORDER OVER $100</p>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Banner Static One</title>
+            <identifier>banner_static_one</identifier>
+            <content>
+                <![CDATA[
+		<div class="banner-static-one">
+		<div class="banner-padding">
+		<div class="row">
+		<div class="col-md-3 col-sm-3 col-sms12">
+		<div class="banner-one banner-one1 ">
+		<div class="banner-one-hover">&nbsp;</div>
+		<a href="{{store direct_url="men.html"}}"><img src="{{media url="wysiwyg/block2.jpg"}}" alt="" /></a>
+		<div class="banner-one-text">
+		<h2>SNEAKERS COLLECTION</h2>
+		</div>
+		</div>
+		</div>
+		<div class="col-md-6 col-sm-6 col-sms12">
+		<div class="banner-one banner-one2 ">
+		<div class="banner-one-hover">&nbsp;</div>
+		<a href="{{store direct_url="women.html"}}"><img src="{{media url="wysiwyg/block3.jpg"}}" alt="" /></a>
+		<div class="banner-one-text">
+		<h2>SPRING COLLECTION</h2>
+		<div class="banner-one-link"><a href="{{store direct_url="women.html"}}">SHOP ALL DRESSES</a></div>
+		</div>
+		</div>
+		</div>
+		<div class="col-md-3 col-sm-3 col-sms12">
+		<div class="banner-one banner-one3 ">
+		<div class="banner-one-hover">&nbsp;</div>
+		<a href="{{store direct_url="jewelry.html"}}"><img src="{{media url="wysiwyg/block4.jpg"}}" alt="" /></a>
+		<div class="banner-one-text">
+		<h2>WOMEN LOOKBOOK</h2>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Static Sub Menu Col Right</title>
+            <identifier>pt_menu_idcat_3_right</identifier>
+            <content>
+                <![CDATA[
+		<div class="custom-menu-right">
+		<div class="menu-right col">
+		<div class="menu-image"><a href="{{store direct_url="women.html"}}"><img src="{{media url="wysiwyg/bg-menu-right.png"}}" alt="" /></a></div>
+		<p>This is Photoshop's version of Lorem grive Ipsum. Proin gravida nttibh vel.</p>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	<block>
+            <title>Static Sub Menu Bottom</title>
+            <identifier>pt_menu_idcat_4</identifier>
+            <content>
+                <![CDATA[
+		<div class="custom-menu-bottom">
+		<div class="menu-bottom images">
+		<div class="cus-image"><a href="{{store direct_url="jewelry.html"}}"><img src="{{media url="wysiwyg/bg-menu-bottom.png"}}" alt="" /></a></div>
+		</div>
+		<div class="menu-bottom images1">
+		<div class="cus-image"><a href="{{store direct_url="men.html"}}"><img src="{{media url="wysiwyg/bg1-menu-bottom.png"}}" alt="" /></a></div>
+		</div>
+		</div>
+		]]>
+            </content>
+            <is_active>1</is_active>
+        </block>
+	
+	
+	
+    </blocks>
+
+</ma_sahara_fashion5>
+

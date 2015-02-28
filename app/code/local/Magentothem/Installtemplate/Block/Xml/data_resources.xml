@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ma_sahara_fashion5>
+    <resources>
+        <resource>
+            <title>Ma_sahara Home page</title>
+            <identifier>ma_sahara_fashion5_home</identifier>
+            <root_template>one_column</root_template>
+				<content><![CDATA[
+				    <div class="home-content">{{widget type="categorytabsliders/advanced" title="Category" identify="category" cat_ids="3,4,6" template="magentothem/categorytabsliders/categorytabsliders.phtml" products_count="15" product_on_row="4" width_thumbnail="270" height_thumbnail="396"}}</div>
+				]]></content>
+				<sort_order>1</sort_order>
+            <is_active>1</is_active>
+        </resource>
+    </resources>
+</ma_sahara_fashion5>
