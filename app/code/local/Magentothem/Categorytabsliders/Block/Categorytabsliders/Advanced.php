@@ -44,7 +44,7 @@ class Magentothem_Categorytabsliders_Block_Categorytabsliders_Advanced extends M
         $json_products = array();
         //load the category's products as a collection
         $_productCollection = $product->getCollection()
-                ->addAttributeToSelect(array('name', 'price', 'small_image', 'special_price'))
+                ->addAttributeToSelect('*')
                 ->addCategoryFilter($_category);
 				Mage::getSingleton('catalog/product_status')->addVisibleFilterToCollection($_productCollection);
 				Mage::getSingleton('catalog/product_visibility')->addVisibleInCatalogFilterToCollection($_productCollection);
